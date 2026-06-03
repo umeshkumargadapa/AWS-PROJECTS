@@ -49,10 +49,13 @@ Host multiple static websites on a single AWS EC2 Ubuntu instance using Nginx.
 * AWS Security Group configured
 
 ## URLs
-
-* http://SERVER-IP:3001
-* http://SERVER-IP:3002
-* http://SERVER-IP:3003
+*https://16.112.68.253/3000
+*https://16.112.68.253/
+*https://16.112.68.253/api/
+*https://16.112.68.253/api/blogs
+*http://leo-files-s3-upload.s3-website.ap-south-2.amazonaws.com/
+*http://leo-qr-code-storage.s3-website.ap-south-2.amazonaws.com/
+*http://13.207.190.250
 
 ---
 
